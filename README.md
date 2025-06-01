@@ -1,5 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+1. Algoritma yang digunakan adalah knapsack greedy by density(Ratio) untuk menentukan Diamond yang akan di ambil dan Algoritma dijkstra untuk menentukan rute ke diamond yang dipilih
+2. ditulis oleh
+   -Omar Athaya Vito
+   -Najwa Syahirah Rosyan
+   -Ahmad Aufamahdi Salam
 
+Cara Penggunaan
 # 💎 Etimo Diamonds 2
 
 Diamonds is a programming challenge. Program a bot and compete to get the highest score. For more information:
